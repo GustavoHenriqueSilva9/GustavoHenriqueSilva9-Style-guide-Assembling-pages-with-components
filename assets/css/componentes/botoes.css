@@ -1,0 +1,15 @@
+.botao{
+    background-color:  #ffcb47;
+    font-family:  'Montserrat', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    color: #ffffff;
+
+    width: 100%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+    box-shadow: 10PX 10PX 30px #FFCB473D;
+
+    border: none;
+}
