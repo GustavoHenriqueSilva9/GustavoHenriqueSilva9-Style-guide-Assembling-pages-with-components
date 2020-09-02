@@ -7,7 +7,7 @@ body{
 
     color: var(--cinza);
 
-    background: url(/assets/img/fundo-linhas.png);
+    background: url(../../img/fundo-linhas.png);
     background-position:center ;
 }
 .container{
